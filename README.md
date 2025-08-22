@@ -12,8 +12,8 @@ Comments. Explaining what I am doing is always a challenge. Comments would make 
 #Which peaces of code did you find the most challenging to write?
 Printing the data in a histogram. For some reason, I could not understand how I was supposed to do it. It took several youtube videos for it to click. I found that watching someone work through similar problems helped me to understand what I was doing!
 
-#What skills from this project will be particularly transferable to other projects or course work?
+# What skills from this project will be particularly transferable to other projects or course work?
 I think being able to have a file read and print data onto another file will be a useful tool for projects, especially more coding and running code. Finding simple guides on youtube will also help with coursework, as listening to someone explain what I need to do will help me a lot.
 
-#How did you make this program maintainable, readable and adaptable?
+# How did you make this program maintainable, readable and adaptable?
 I sectioned off everything, so nothing is one big long piece of code. There are line breaks when I moved on to a different funtion within the code, like with the menu.
